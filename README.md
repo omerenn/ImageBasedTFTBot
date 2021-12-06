@@ -17,8 +17,7 @@ pip install pywin32
 
 ## 📏 Configure for Yourself
 You must change image files to your own screenshots for program run properly. You can take screenshots with ```Win + Shift + S``` or Snipping Tool.
-
-Default images path is ```C:\Users\[user]\AppData\Roaming\Microsoft\Windows\Start Menu\ImageBasedTFTBot\img``` if you used .exe file to install. **Image names must be same.**
+**Image names must be same.**
 
 
 - 0.png = Any image can prove you are loading game (Smaller images be better.)
