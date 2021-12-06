@@ -1,6 +1,8 @@
 # Image Based TFT Bot
 TFT Bot that automatically surrenders and allows finish TFT Passes easily. ***Please read full file!***
 
+You can check [new releases here](https://github.com/omerenn/ImageBasedTFTBot/releases)
+
 ![HAVE FUN!](https://teamfighttactics.leagueoflegends.com/static/24eaaf3a8fb2a932281f8990cd93f475/cdc7c/pengu.png)
 
 ## 🔍 Requirements
