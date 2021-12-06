@@ -28,7 +28,7 @@ while True:
 
 
         t.sleep(15)
-# Checking for someone rejected:
+# Checking for someone rejected: 
         if pag.locateOnScreen("img/2.png", confidence=0.7) == None:
             break
         else:
