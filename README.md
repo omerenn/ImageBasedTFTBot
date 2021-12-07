@@ -36,7 +36,7 @@ Automatic;
   1. installation of python and required libraries,
   2. language and resolution detection,
 
-will be added. Priorities for future versions for ease of use. After these features GUI will be added too.
+will be added. These are priorities for future versions for ease of use. After these features GUI will be added too.
 
 ## 📃 License
 All code under [GNU GPLv3](LICENSE)
