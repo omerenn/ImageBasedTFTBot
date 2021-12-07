@@ -1,12 +1,12 @@
 # Image Based TFT Bot
-TFT Bot that automatically surrenders and allows finish TFT Passes easily. ***Please read full file!***
+TFT Bot that automatically surrenders and allows finishing TFT Passes easily. ***Please read full file!***
 
 You can check [new releases here](https://github.com/omerenn/ImageBasedTFTBot/releases)
 
 ![HAVE FUN!](https://teamfighttactics.leagueoflegends.com/static/24eaaf3a8fb2a932281f8990cd93f475/cdc7c/pengu.png)
 
 ## 🔍 Requirements
-You need download [Python 3](https://www.python.org/downloads/) and PyAutoGUI, Time, Win32Api, Win32Con libraries.
+You need to download [Python 3](https://www.python.org/downloads/) and PyAutoGUI, Time, Win32Api, Win32Con libraries.
 
 ## 📗 Library Download Guide
 ```Win + R``` ```cmd``` [Enter]:
@@ -18,7 +18,7 @@ pip install pywin32
 ```
 
 ## 📏 Configure for Yourself
-You must change image files to your own screenshots for program run properly. You can take screenshots with ```Win + Shift + S``` or Snipping Tool.
+You must replace the image files with your own screenshots for the program to run properly. You can take screenshots with ```Win + Shift + S``` or Snipping Tool.
 **Image names must be same.**
 
 
@@ -36,7 +36,7 @@ Automatic;
   1. installation of python and required libraries,
   2. language and resolution detection,
 
-will be added. These are priorities for future versions to ease of use. After these features GUI will be added too.
+will be added. Priorities for future versions for ease of use. After these features GUI will be added too.
 
 ## 📃 License
 All code under [GNU GPLv3](LICENSE)
