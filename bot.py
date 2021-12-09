@@ -39,7 +39,7 @@ while True:
     while pag.locateOnScreen("img/0.png", confidence = 0.7):
         t.sleep(1)
     
-    t.sleep(3)
+    t.sleep(5)
 # For surrender: 
     clickFunc("img/4.png")
 
